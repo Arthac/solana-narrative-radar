@@ -8,3 +8,4 @@ venv/
 .streamlit/
 *.log
 telemetry_output.json
+.agent/
