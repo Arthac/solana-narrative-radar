@@ -187,7 +187,7 @@ The application provides a modern, responsive Streamlit dashboard with 5 dedicat
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/antigravity-worker/solana-narrative-radar.git
+git clone https://github.com/Arthac/solana-narrative-radar.git
 cd solana-narrative-radar
 
 # Install dependencies
